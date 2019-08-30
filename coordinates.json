@@ -55,55 +55,6 @@
             "coordinates": {"x": 515, "y": 527}
         },
 
-    // "United States (New Jersey)":
-    //     {
-    //         "servers": [["New Jersey Server", "New Jersey"]],
-    //         "flag": "United-State.png",
-    //         "coordinates": {"x": 578, "y": 406}
-    //     },
-
-    // "United States (Silicon valley)":
-    //     {
-    //         "servers": [["Silicon valley Server", "Silicon valley"]],
-    //         "flag": "United-State.png",
-    //         "coordinates": {"x": 90, "y": 272}
-    //     },
-
-    // "United States (Chicago)":
-    //     {
-    //         "servers": [["Chicago Server", "Chicago"]],
-    //         "flag": "United-State.png",
-    //         "coordinates": {"x": 508, "y": 336}
-    //     },
-
-    // "United States (Dallas)":
-    //     {
-    //         "servers": [["Dallas Server", "Dallas"]],
-    //         "flag": "United-State.png",
-    //         "coordinates": {"x": 440, "y": 462}
-    //     },
-
-    // "United States (Seattle)":
-    //     {
-    //         "servers": [["Seattle Server", "Seattle"]],
-    //         "flag": "United-State.png",
-    //         "coordinates": {"x": 296, "y": 382}
-    //     },
-
-    // "United States (Los Angeles)":
-    //     {
-    //         "servers": [["Los Angeles Server", "Los Angeles"]],
-    //         "flag": "United-State.png",
-    //         "coordinates": {"x": 325, "y": 485}
-    //     },
-
-    // "United States (Atlanta)":
-    //     {
-    //         "servers": [["Atlanta Server", "Atlanta"]],
-    //         "flag": "United-State.png",
-    //         "coordinates": {"x": 481, "y": 413}
-    //     },
-
     "Singapore":
         {
             "servers": [["Singapore Server", "Singapore"]],
