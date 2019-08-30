@@ -50,7 +50,7 @@
 
     "United States":
         {
-            "servers": [["New York Server", "New York"]],
+            "servers": [["New Jersey Server", "New Jersey"]],
             "flag": "United-State.png",
             "coordinates": {"x": 515, "y": 527}
         },
