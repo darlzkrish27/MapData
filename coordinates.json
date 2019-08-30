@@ -1,0 +1,113 @@
+{
+    "Netherlands":
+        {
+            "servers": [["Amsterdam server", "Amsterdam"]],
+            "flag": "netherlands.png",
+            "coordinates": {"x": 973, "y": 335}
+        },
+
+    "United Kingdom":
+        {
+            "servers": [["London Server", "London"]],
+            "flag": "United-Kingdom.png",
+            "coordinates": {"x": 943, "y": 339}
+        },
+
+    "Germany":
+        {
+            "servers": [["Franfurt Server", "Frankfurt"]],
+            "flag": "Germany.png",
+            "coordinates": {"x": 980, "y": 359}
+        },
+
+    "Australia":
+        {
+            "servers": [["Sydney Server", "Sydney"]],
+            "flag": "Australia.png",
+            "coordinates": {"x": 1728, "y": 957}
+        },
+
+    "Canada":
+        {
+            "servers": [["Toronto Server", "Toronto"]],
+            "flag": "Canada.png",
+            "coordinates": {"x": 521, "y": 378}
+        },
+
+    "France":
+        {
+            "servers": [["Paris Server", "Paris"]],
+            "flag": "France.png",
+            "coordinates": {"x": 956, "y": 366}
+        },
+
+    "Japan":
+        {
+            "servers": [["Tokyo Server", "Tokyo"]],
+            "flag": "Japan.png",
+            "coordinates": {"x": 1679, "y": 470}
+        },
+
+    "United States (Miami)":
+        {
+            "servers": [["Miami Server", "Miami"]],
+            "flag": "United-State.png",
+            "coordinates": {"x": 515, "y": 527}
+        },
+
+    "United States (New Jersey)":
+        {
+            "servers": [["New Jersey Server", "New Jersey"]],
+            "flag": "United-State.png",
+            "coordinates": {"x": 578, "y": 406}
+        },
+
+    "United States (Silicon valley)":
+        {
+            "servers": [["Silicon valley Server", "Silicon valley"]],
+            "flag": "United-State.png",
+            "coordinates": {"x": 90, "y": 272}
+        },
+
+    "United States (Chicago)":
+        {
+            "servers": [["Chicago Server", "Chicago"]],
+            "flag": "United-State.png",
+            "coordinates": {"x": 508, "y": 336}
+        },
+
+    "United States (Dallas)":
+        {
+            "servers": [["Dallas Server", "Dallas"]],
+            "flag": "United-State.png",
+            "coordinates": {"x": 440, "y": 462}
+        },
+
+    "United States (Seattle)":
+        {
+            "servers": [["Seattle Server", "Seattle"]],
+            "flag": "United-State.png",
+            "coordinates": {"x": 296, "y": 382}
+        },
+
+    "United States (Los Angeles)":
+        {
+            "servers": [["Los Angeles Server", "Los Angeles"]],
+            "flag": "United-State.png",
+            "coordinates": {"x": 325, "y": 485}
+        },
+
+    "United States (Atlanta)":
+        {
+            "servers": [["Atlanta Server", "Atlanta"]],
+            "flag": "United-State.png",
+            "coordinates": {"x": 481, "y": 413}
+        },
+
+    "Singapore":
+        {
+            "servers": [["Singapore Server", "Singapore"]],
+            "flag": "singapore.png",
+            "coordinates": {"x": 1485, "y": 689}
+        }
+}
