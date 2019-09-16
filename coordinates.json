@@ -1,63 +1,63 @@
 {
     "Netherlands":
         {
-            "servers": [["Amsterdam server", "Amsterdam"]],
+            "servers": [["OpenVPN", "Amsterdam"]],
             "flag": "netherlands.png",
             "coordinates": {"x": 973, "y": 335}
         },
 
     "United Kingdom":
         {
-            "servers": [["London Server", "London"]],
+            "servers": [["OpenVPN", "London"]],
             "flag": "United-Kingdom.png",
             "coordinates": {"x": 943, "y": 339}
         },
 
     "Germany":
         {
-            "servers": [["Franfurt Server", "Frankfurt"]],
+            "servers": [["OpenVPN", "Frankfurt"]],
             "flag": "Germany.png",
             "coordinates": {"x": 980, "y": 359}
         },
 
     "Australia":
         {
-            "servers": [["Sydney Server", "Sydney"]],
+            "servers": [["OpenVPN", "Sydney"]],
             "flag": "Australia.png",
             "coordinates": {"x": 1728, "y": 957}
         },
 
     "Canada":
         {
-            "servers": [["Toronto Server", "Toronto"]],
+            "servers": [["OpenVPN", "Toronto"]],
             "flag": "Canada.png",
             "coordinates": {"x": 521, "y": 378}
         },
 
     "France":
         {
-            "servers": [["Paris Server", "Paris"]],
+            "servers": [["OpenVPN", "Paris"]],
             "flag": "France.png",
             "coordinates": {"x": 956, "y": 366}
         },
 
     "Japan":
         {
-            "servers": [["Tokyo Server", "Tokyo"]],
+            "servers": [["OpenVPN", "Tokyo"]],
             "flag": "Japan.png",
             "coordinates": {"x": 1679, "y": 470}
         },
 
     "United States":
         {
-            "servers": [["New Jersey Server", "New Jersey"]],
+            "servers": [["OpenVPN", "New Jersey"]],
             "flag": "United-State.png",
             "coordinates": {"x": 515, "y": 527}
         },
 
     "Singapore":
         {
-            "servers": [["Singapore Server", "Singapore"]],
+            "servers": [["OpenVPN", "Singapore"]],
             "flag": "singapore.png",
             "coordinates": {"x": 1485, "y": 689}
         }
