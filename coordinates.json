@@ -36,7 +36,7 @@
 
     "France":
         {
-            "servers": [["OpenVPN"]],
+            "servers": [["OpenVPN", "Connect"]],
             "flag": "France.png",
             "coordinates": {"x": 956, "y": 366}
         },
