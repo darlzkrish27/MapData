@@ -1,63 +1,63 @@
 {
     "Netherlands":
         {
-            "servers": [["OpenVPN", "Amsterdam"]],
+            "servers": [["OpenVPN", "Connect"]],
             "flag": "netherlands.png",
             "coordinates": {"x": 973, "y": 335}
         },
 
     "United Kingdom":
         {
-            "servers": [["OpenVPN", "London"]],
+            "servers": [["OpenVPN", "Connect"]],
             "flag": "United-Kingdom.png",
             "coordinates": {"x": 943, "y": 339}
         },
 
     "Germany":
         {
-            "servers": [["OpenVPN", "Frankfurt"]],
+            "servers": [["OpenVPN", "Connect"]],
             "flag": "Germany.png",
             "coordinates": {"x": 980, "y": 359}
         },
 
     "Australia":
         {
-            "servers": [["OpenVPN", "Sydney"]],
+            "servers": [["OpenVPN", "Connect"]],
             "flag": "Australia.png",
             "coordinates": {"x": 1728, "y": 957}
         },
 
     "Canada":
         {
-            "servers": [["OpenVPN", "Toronto"]],
+            "servers": [["OpenVPN", "Connect"]],
             "flag": "Canada.png",
             "coordinates": {"x": 521, "y": 378}
         },
 
     "France":
         {
-            "servers": [["OpenVPN", "Paris"]],
+            "servers": [["OpenVPN"]],
             "flag": "France.png",
             "coordinates": {"x": 956, "y": 366}
         },
 
     "Japan":
         {
-            "servers": [["OpenVPN", "Tokyo"]],
+            "servers": [["OpenVPN", "Connect"]],
             "flag": "Japan.png",
             "coordinates": {"x": 1679, "y": 470}
         },
 
     "United States":
         {
-            "servers": [["OpenVPN", "New Jersey"]],
+            "servers": [["OpenVPN", "Connect"]],
             "flag": "United-State.png",
             "coordinates": {"x": 515, "y": 527}
         },
 
     "Singapore":
         {
-            "servers": [["OpenVPN", "Singapore"]],
+            "servers": [["OpenVPN", "Connect"]],
             "flag": "singapore.png",
             "coordinates": {"x": 1485, "y": 689}
         }
